@@ -1,5 +1,11 @@
 # UIE模型微调教程
 
+## 试用一下
+
+```py
+$ python uie_test.py
+```
+
 ## doccano标注数据
 
 ![](./doccano标注示例.png)
@@ -249,23 +255,22 @@ ID: 10101 -> Token: ##gb
 
 ![](./model-1.png)
 
-ErnieModel模型的结构如下图
+## 微调流程
 
 ![](./model-2.png)
 
-ErnieEmbedding模型的结构如下图
+## 微调代码
 
-要注意的是：`position_ids`和`task_type_ids`是在模型初始化时创建的，并非来自外部输入。
-
-![](./model-3.png)
-
-ErnieEncoder模型的结构如下图
-
-具体是由 12 层 `ErnieLayer` 堆叠而成的。
-
-![](./model-4.png)
-
-ErnieLayer的结构如下
-
-![](./model-5.png)
-
+```sh
+$ python finetune.py \
+    --train_path "./data/train.txt" \
+    --dev_path "./data/dev.txt" \
+    --save_dir "./checkpoint" \
+    --learning_rate 1e-5 \
+    --batch_size 16 \
+    --max_seq_len 64 \
+    --num_epochs 100 \
+    --seed 1000 \
+    --valid_steps 100 \
+    --device "gpu"
+```

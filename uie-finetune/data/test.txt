@@ -1,0 +1,11 @@
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Z03女王红 性感冷艳 璀璨金钻哑光唇膏", "result_list": [{"text": "索芙特i-Softto", "start": 0, "end": 11}], "prompt": "商品名称"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Z03女王红 性感冷艳 璀璨金钻哑光唇膏", "result_list": [{"text": "女王红", "start": 36, "end": 39}], "prompt": "颜色"}
+{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+512GB 冷杉绿 5G手机", "result_list": [{"text": "小米12S Ultra", "start": 0, "end": 11}], "prompt": "商品名称"}
+{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+512GB 冷杉绿 5G手机", "result_list": [{"text": "冷杉绿", "start": 61, "end": 64}], "prompt": "颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 黑色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "Apple iPhone 12", "start": 0, "end": 15}], "prompt": "商品名称"}
+{"content": "Apple iPhone 12 (A2404) 64GB 黑色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "黑色", "start": 29, "end": 31}], "prompt": "颜色"}
+{"content": "金沙河面条 原味银丝挂面 龙须面 方便速食拉面 清汤面 900g", "result_list": [{"text": "金沙河面条", "start": 0, "end": 5}, {"text": "原味银丝挂面", "start": 6, "end": 12}], "prompt": "商品名称"}
+{"content": "金沙河面条 原味银丝挂面 龙须面 方便速食拉面 清汤面 900g", "result_list": [], "prompt": "颜色"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Z03女王红 性感冷艳 璀璨金钻哑光唇膏", "result_list": [{"text": "女王红", "start": 36, "end": 39}], "prompt": "索芙特i-Softto的颜色"}
+{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+512GB 冷杉绿 5G手机", "result_list": [{"text": "冷杉绿", "start": 61, "end": 64}], "prompt": "小米12S Ultra的颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 黑色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "黑色", "start": 29, "end": 31}], "prompt": "Apple iPhone 12的颜色"}

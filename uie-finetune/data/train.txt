@@ -1,0 +1,170 @@
+{"content": "Apple iPhone 12 (A2404) 64GB 蓝色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "钛晶灰的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3070Ti 钛晶灰", "result_list": [{"text": "钛晶灰", "start": 58, "end": 61}], "prompt": "拯救者Y9000P的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M02干玫瑰", "result_list": [{"text": "干玫瑰", "start": 34, "end": 37}], "prompt": "珂曼奶油小方口红的颜色"}
+{"content": "十月稻田 辽河长粒香 东北大米 5kg", "result_list": [{"text": "十月稻田", "start": 0, "end": 4}, {"text": "辽河长粒香", "start": 5, "end": 10}], "prompt": "商品名称"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [{"text": "冰雾白", "start": 72, "end": 75}], "prompt": "颜色"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Y01复古红 百搭气质 璀璨金钻哑光唇膏", "result_list": [], "prompt": "女士香水5号的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3070Ti 钛晶灰", "result_list": [], "prompt": "钛晶灰的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [{"text": "明月灰", "start": 72, "end": 75}], "prompt": "Redmi 10X的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [], "prompt": "钛晶灰的颜色"}
+{"content": "华为智慧屏V65i 65英寸 HEGE-560B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 4GB+32GB 星际黑", "result_list": [], "prompt": "星际黑的颜色"}
+{"content": "Apple iPhone 12 (A2404) 128GB 黑色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "钛晶灰的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [], "prompt": "华为智慧屏V55i-J的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [], "prompt": "珂曼奶油小方口红的颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 蓝色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "Apple iPhone 12", "start": 0, "end": 15}], "prompt": "商品名称"}
+{"content": "Apple iPhone 12 (A2404) 64GB 白色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "85Q6的颜色"}
+{"content": "TCL 85Q6 85英寸 巨幕私人影院电视 4K超高清 AI智慧屏 全景全面屏 MEMC运动防抖 2+16GB 液晶平板电视机", "result_list": [{"text": "85Q6", "start": 4, "end": 8}], "prompt": "商品名称"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H 512G RTX3060 钛晶灰", "result_list": [], "prompt": "黑色的颜色"}
+{"content": "Apple iPhone 12 (A2404) 128GB 黑色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "华为智慧屏V65i的颜色"}
+{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+256GB 经典黑 5G手机", "result_list": [{"text": "经典黑", "start": 61, "end": 64}], "prompt": "小米12S Ultra的颜色"}
+{"content": "华为智慧屏V65i 65英寸 HEGE-560B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 4GB+32GB 星际黑", "result_list": [], "prompt": "复古红的颜色"}
+{"content": "香奈儿（Chanel）女士香水5号香水 粉邂逅柔情淡香水EDT 5号淡香水35ml", "result_list": [{"text": "香奈儿", "start": 0, "end": 3}, {"text": "女士香水5号", "start": 11, "end": 17}], "prompt": "商品名称"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [], "prompt": "明月灰的颜色"}
+{"content": "Apple iPhone 12 (A2404) 128GB 黑色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "蓝色的颜色"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Z02少女红 活力青春 璀璨金钻哑光唇膏", "result_list": [], "prompt": "少女红的颜色"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Y01复古红 百搭气质 璀璨金钻哑光唇膏", "result_list": [{"text": "复古红", "start": 36, "end": 39}], "prompt": "索芙特i-Softto的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [], "prompt": "小米12S Ultra的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [{"text": "Redmi 10X", "start": 0, "end": 9}], "prompt": "商品名称"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Z02少女红 活力青春 璀璨金钻哑光唇膏", "result_list": [{"text": "少女红", "start": 36, "end": 39}], "prompt": "索芙特i-Softto的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3070Ti 钛晶灰", "result_list": [], "prompt": "钛晶灰的颜色"}
+{"content": "华为智慧屏V55i-J 55英寸 HEGE-550B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 银钻灰 京品家电", "result_list": [], "prompt": "银钻灰的颜色"}
+{"content": "十月稻田 长粒香大米 东北大米 东北香米 5kg", "result_list": [], "prompt": "颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H RTX3060 冰魄白", "result_list": [], "prompt": "冰魄白的颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 红色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "Apple iPhone 12", "start": 0, "end": 15}], "prompt": "商品名称"}
+{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+256GB 经典黑 5G手机", "result_list": [], "prompt": "辽河长粒香的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [{"text": "明月灰", "start": 72, "end": 75}], "prompt": "Redmi 10X的颜色"}
+{"content": "华为智慧屏V65i 65英寸 HEGE-560B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 4GB+32GB 星际黑", "result_list": [{"text": "星际黑", "start": 60, "end": 63}], "prompt": "华为智慧屏V65i的颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 蓝色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "蓝色", "start": 29, "end": 31}], "prompt": "颜色"}
+{"content": "小米电视E65X 65英寸 全面屏 4K超高清HDR 蓝牙遥控内置小爱 2+8GB AI人工智能液晶网络平板电视 L65M5-EA", "result_list": [], "prompt": "颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3070Ti 钛晶灰", "result_list": [{"text": "钛晶灰", "start": 58, "end": 61}], "prompt": "颜色"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Y01复古红 百搭气质 璀璨金钻哑光唇膏", "result_list": [], "prompt": "银钻灰的颜色"}
+{"content": "华为智慧屏V65i 65英寸 HEGE-560B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 4GB+32GB 星际黑", "result_list": [{"text": "星际黑", "start": 60, "end": 63}], "prompt": "颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [], "prompt": "CAREMiLLE的颜色"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Z02少女红 活力青春 璀璨金钻哑光唇膏", "result_list": [{"text": "索芙特i-Softto", "start": 0, "end": 11}], "prompt": "商品名称"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [{"text": "冰雾白", "start": 72, "end": 75}], "prompt": "Redmi 10X的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M02干玫瑰", "result_list": [], "prompt": "干玫瑰的颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 白色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "冰魄白的颜色"}
+{"content": "金沙河面条 银丝挂面900g*3包 爽滑 细面条 龙须面 速食面", "result_list": [{"text": "金沙河面条", "start": 0, "end": 5}, {"text": "银丝挂面", "start": 6, "end": 10}], "prompt": "商品名称"}
+{"content": "Apple iPhone 12 (A2404) 64GB 蓝色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "小米12S Ultra的颜色"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Z02少女红 活力青春 璀璨金钻哑光唇膏", "result_list": [], "prompt": "银丝挂面的颜色"}
+{"content": "小米电视E65X 65英寸 全面屏 4K超高清HDR 蓝牙遥控内置小爱 2+8GB AI人工智能液晶网络平板电视 L65M5-EA", "result_list": [{"text": "小米电视E65X", "start": 0, "end": 8}], "prompt": "商品名称"}
+{"content": "Apple iPhone 12 (A2404) 64GB 白色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "Redmi 10X的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [], "prompt": "小米电视E65X的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3060 钛晶灰", "result_list": [], "prompt": "小米电视E65X的颜色"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Z02少女红 活力青春 璀璨金钻哑光唇膏", "result_list": [], "prompt": "长粒香大米的颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 红色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "红色", "start": 29, "end": 31}], "prompt": "颜色"}
+{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+256GB 经典黑 5G手机", "result_list": [{"text": "小米12S Ultra", "start": 0, "end": 11}], "prompt": "商品名称"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H RTX3060 冰魄白", "result_list": [{"text": "冰魄白", "start": 56, "end": 59}], "prompt": "拯救者Y9000P的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H 512G RTX3060 钛晶灰", "result_list": [], "prompt": "冰魄白的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H 512G RTX3060 钛晶灰", "result_list": [{"text": "拯救者Y9000P", "start": 11, "end": 20}], "prompt": "商品名称"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H 512G RTX3060 钛晶灰", "result_list": [], "prompt": "钛晶灰的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H RTX3060 冰魄白", "result_list": [], "prompt": "华为智慧屏V65i的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3060 钛晶灰", "result_list": [], "prompt": "明月灰的颜色"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Y01复古红 百搭气质 璀璨金钻哑光唇膏", "result_list": [], "prompt": "复古红的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3060 钛晶灰", "result_list": [{"text": "钛晶灰", "start": 56, "end": 59}], "prompt": "拯救者Y9000P的颜色"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Y01复古红 百搭气质 璀璨金钻哑光唇膏", "result_list": [{"text": "复古红", "start": 36, "end": 39}], "prompt": "颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [], "prompt": "85Q6的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [{"text": "明月灰", "start": 72, "end": 75}], "prompt": "颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [], "prompt": "Apple iPhone 12的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H RTX3060 冰魄白", "result_list": [], "prompt": "星际黑的颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 蓝色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "蓝色的颜色"}
+{"content": "金沙河面条 银丝挂面900g*3包 爽滑 细面条 龙须面 速食面", "result_list": [], "prompt": "颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [], "prompt": "华为智慧屏V55i-J的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [], "prompt": "65Q10的颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 蓝色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "长粒香大米的颜色"}
+{"content": "Apple iPhone 12 (A2404) 128GB 黑色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "黑色", "start": 30, "end": 32}], "prompt": "Apple iPhone 12的颜色"}
+{"content": "TCL 65Q10 65英寸 QLED原色量子点电视 安桥音响 AI声控智慧屏 超薄全面屏 MEMC防抖 3+32GB 平板电视", "result_list": [{"text": "65Q10", "start": 4, "end": 9}], "prompt": "商品名称"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Y01复古红 百搭气质 璀璨金钻哑光唇膏", "result_list": [{"text": "索芙特i-Softto", "start": 0, "end": 11}], "prompt": "商品名称"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [{"text": "Redmi 10X", "start": 0, "end": 9}], "prompt": "商品名称"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M02干玫瑰", "result_list": [], "prompt": "冰魄白的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [], "prompt": "辽河长粒香的颜色"}
+{"content": "TCL 75Q10 75英寸 QLED原色量子点电视 安桥音响 AI声控智慧屏 超薄全面屏 MEMC防抖 3+32GB 平板电视", "result_list": [{"text": "75Q10", "start": 4, "end": 9}], "prompt": "商品名称"}
+{"content": "TCL 85Q6 85英寸 巨幕私人影院电视 4K超高清 AI智慧屏 全景全面屏 MEMC运动防抖 2+16GB 液晶平板电视机", "result_list": [], "prompt": "颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H RTX3060 冰魄白", "result_list": [{"text": "冰魄白", "start": 56, "end": 59}], "prompt": "颜色"}
+{"content": "Apple iPhone 12 (A2404) 128GB 黑色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "黑色", "start": 30, "end": 32}], "prompt": "颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 蓝色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "85Q6的颜色"}
+{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+256GB 经典黑 5G手机", "result_list": [], "prompt": "女士香水5号的颜色"}
+{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+256GB 经典黑 5G手机", "result_list": [{"text": "经典黑", "start": 61, "end": 64}], "prompt": "颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H 512G RTX3060 钛晶灰", "result_list": [{"text": "钛晶灰", "start": 61, "end": 64}], "prompt": "拯救者Y9000P的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H 512G RTX3060 钛晶灰", "result_list": [], "prompt": "复古红的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M02干玫瑰", "result_list": [], "prompt": "冰雾白的颜色"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Z02少女红 活力青春 璀璨金钻哑光唇膏", "result_list": [{"text": "少女红", "start": 36, "end": 39}], "prompt": "颜色"}
+{"content": "香奈儿（Chanel）女士香水5号香水 粉邂逅柔情淡香水EDT 5号淡香水35ml", "result_list": [], "prompt": "颜色"}
+{"content": "华为智慧屏V65i 65英寸 HEGE-560B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 4GB+32GB 星际黑", "result_list": [], "prompt": "小米电视E65X的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3060 钛晶灰", "result_list": [], "prompt": "小米电视4A的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H RTX3060 冰魄白", "result_list": [], "prompt": "金沙河面条的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3070Ti 钛晶灰", "result_list": [], "prompt": "CAREMiLLE的颜色"}
+{"content": "香奈儿（Chanel）女士香水5号香水 粉邂逅柔情淡香水EDT 粉邂逅淡香水35ml", "result_list": [{"text": "香奈儿（Chanel）女士香水5号", "start": 0, "end": 17}], "prompt": "商品名称"}
+{"content": "Apple iPhone 12 (A2404) 64GB 白色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "白色", "start": 29, "end": 31}], "prompt": "颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [{"text": "冰雾白", "start": 72, "end": 75}], "prompt": "Redmi 10X的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3060 钛晶灰", "result_list": [], "prompt": "钛晶灰的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [], "prompt": "小米12S Ultra的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [], "prompt": "少女红的颜色"}
+{"content": "TCL 65Q10 65英寸 QLED原色量子点电视 安桥音响 AI声控智慧屏 超薄全面屏 MEMC防抖 3+32GB 平板电视", "result_list": [], "prompt": "颜色"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Y01复古红 百搭气质 璀璨金钻哑光唇膏", "result_list": [], "prompt": "复古红的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [], "prompt": "冰雾白的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3070Ti 钛晶灰", "result_list": [], "prompt": "冰雾白的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H 512G RTX3060 钛晶灰", "result_list": [{"text": "钛晶灰", "start": 61, "end": 64}], "prompt": "颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 蓝色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "蓝色", "start": 29, "end": 31}], "prompt": "Apple iPhone 12的颜色"}
+{"content": "Apple iPhone 12 (A2404) 128GB 黑色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "黑色的颜色"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Y01复古红 百搭气质 璀璨金钻哑光唇膏", "result_list": [], "prompt": "华为智慧屏V55i-J的颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 白色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "白色", "start": 29, "end": 31}], "prompt": "Apple iPhone 12的颜色"}
+{"content": "Apple iPhone 12 (A2404) 128GB 黑色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "复古红的颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 红色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "红色", "start": 29, "end": 31}], "prompt": "Apple iPhone 12的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M02干玫瑰", "result_list": [], "prompt": "十月稻田的颜色"}
+{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+256GB 经典黑 5G手机", "result_list": [], "prompt": "经典黑的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [{"text": "明月灰", "start": 72, "end": 75}], "prompt": "颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3060 钛晶灰", "result_list": [], "prompt": "钛晶灰的颜色"}
+{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+256GB 经典黑 5G手机", "result_list": [], "prompt": "华为智慧屏V55i-J的颜色"}
+{"content": "香奈儿（Chanel）女士香水5号香水 粉邂逅柔情淡香水EDT 粉邂逅淡香水35ml", "result_list": [], "prompt": "颜色"}
+{"content": "华为智慧屏V65i 65英寸 HEGE-560B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 4GB+32GB 星际黑", "result_list": [], "prompt": "Apple iPhone 12的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M02干玫瑰", "result_list": [], "prompt": "华为智慧屏V55i-J的颜色"}
+{"content": "华为智慧屏V55i-J 55英寸 HEGE-550B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 银钻灰 京品家电", "result_list": [], "prompt": "75Q10的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M02干玫瑰", "result_list": [], "prompt": "干玫瑰的颜色"}
+{"content": "华为智慧屏V65i 65英寸 HEGE-560B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 4GB+32GB 星际黑", "result_list": [], "prompt": "冰雾白的颜色"}
+{"content": "十月稻田 辽河长粒香 东北大米 5kg", "result_list": [], "prompt": "颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3060 钛晶灰", "result_list": [{"text": "钛晶灰", "start": 56, "end": 59}], "prompt": "颜色"}
+{"content": "华为智慧屏V65i 65英寸 HEGE-560B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 4GB+32GB 星际黑", "result_list": [{"text": "华为智慧屏V65i", "start": 0, "end": 9}], "prompt": "商品名称"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Z02少女红 活力青春 璀璨金钻哑光唇膏", "result_list": [], "prompt": "Redmi 10X的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M02干玫瑰", "result_list": [], "prompt": "干玫瑰的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [], "prompt": "冰雾白的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M02干玫瑰", "result_list": [{"text": "干玫瑰", "start": 34, "end": 37}], "prompt": "颜色"}
+{"content": "小米电视4A 70英寸 4K超高清 HDR 二级能效 2GB+16GB L70M5-4A 内置小爱 智能网络液晶平板教育电视", "result_list": [{"text": "小米电视4A", "start": 0, "end": 6}], "prompt": "商品名称"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M02干玫瑰", "result_list": [{"text": "干玫瑰", "start": 34, "end": 37}], "prompt": "CAREMiLLE的颜色"}
+{"content": "华为智慧屏V55i-J 55英寸 HEGE-550B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 银钻灰 京品家电", "result_list": [], "prompt": "星际黑的颜色"}
+{"content": "十月稻田 长粒香大米 东北大米 东北香米 5kg", "result_list": [{"text": "十月稻田", "start": 0, "end": 4}, {"text": "长粒香大米", "start": 5, "end": 10}], "prompt": "商品名称"}
+{"content": "Apple iPhone 12 (A2404) 64GB 白色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "白色的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [], "prompt": "珂曼奶油小方口红的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3060 钛晶灰", "result_list": [{"text": "拯救者Y9000P", "start": 11, "end": 20}], "prompt": "商品名称"}
+{"content": "华为智慧屏V55i-J 55英寸 HEGE-550B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 银钻灰 京品家电", "result_list": [{"text": "银钻灰", "start": 53, "end": 56}], "prompt": "华为智慧屏V55i-J的颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 红色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "明月灰的颜色"}
+{"content": "TCL 75Q10 75英寸 QLED原色量子点电视 安桥音响 AI声控智慧屏 超薄全面屏 MEMC防抖 3+32GB 平板电视", "result_list": [], "prompt": "颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H RTX3060 冰魄白", "result_list": [], "prompt": "白色的颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 白色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "十月稻田的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3070Ti 钛晶灰", "result_list": [{"text": "拯救者Y9000P", "start": 11, "end": 20}], "prompt": "商品名称"}
+{"content": "华为智慧屏V55i-J 55英寸 HEGE-550B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 银钻灰 京品家电", "result_list": [], "prompt": "拯救者Y9000P的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [{"text": "Redmi 10X", "start": 0, "end": 9}], "prompt": "商品名称"}
+{"content": "Apple iPhone 12 (A2404) 64GB 红色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "香奈儿的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M02干玫瑰", "result_list": [], "prompt": "复古红的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i9-12900H RTX3070Ti 钛晶灰", "result_list": [], "prompt": "干玫瑰的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M02干玫瑰", "result_list": [{"text": "CAREMiLLE", "start": 0, "end": 9}, {"text": "珂曼奶油小方口红", "start": 9, "end": 17}], "prompt": "商品名称"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [{"text": "冰雾白", "start": 72, "end": 75}], "prompt": "颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 红色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "十月稻田的颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 白色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "Apple iPhone 12", "start": 0, "end": 15}], "prompt": "商品名称"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [], "prompt": "明月灰的颜色"}
+{"content": "华为智慧屏V55i-J 55英寸 HEGE-550B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 银钻灰 京品家电", "result_list": [], "prompt": "黑色的颜色"}
+{"content": "小米电视4A 70英寸 4K超高清 HDR 二级能效 2GB+16GB L70M5-4A 内置小爱 智能网络液晶平板教育电视", "result_list": [], "prompt": "颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 红色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "红色的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [{"text": "Redmi 10X", "start": 0, "end": 9}], "prompt": "商品名称"}
+{"content": "华为智慧屏V55i-J 55英寸 HEGE-550B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 银钻灰 京品家电", "result_list": [{"text": "银钻灰", "start": 53, "end": 56}], "prompt": "颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 明月灰 游戏智能手机 小米 红米", "result_list": [], "prompt": "65Q10的颜色"}
+{"content": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 冰雾白 游戏智能手机 小米 红米", "result_list": [], "prompt": "小米电视4A的颜色"}
+{"content": "Apple iPhone 12 (A2404) 64GB 红色 支持移动联通电信5G 双卡双待手机", "result_list": [], "prompt": "75Q10的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H RTX3060 冰魄白", "result_list": [{"text": "拯救者Y9000P", "start": 11, "end": 20}], "prompt": "商品名称"}
+{"content": "华为智慧屏V55i-J 55英寸 HEGE-550B 4K全面屏智能电视机 多方视频通话 AI升降摄像头 银钻灰 京品家电", "result_list": [{"text": "华为智慧屏V55i-J", "start": 0, "end": 11}], "prompt": "商品名称"}
+{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+256GB 经典黑 5G手机", "result_list": [], "prompt": "冰雾白的颜色"}
+{"content": "联想（Lenovo） 拯救者Y9000P 2022 16英寸游戏笔记本电脑 i7-12700H 512G RTX3060 钛晶灰", "result_list": [], "prompt": "十月稻田的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M02干玫瑰", "result_list": [], "prompt": "蓝色的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M02干玫瑰", "result_list": [], "prompt": "经典黑的颜色"}
+{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Z02少女红 活力青春 璀璨金钻哑光唇膏", "result_list": [], "prompt": "85Q6的颜色"}
+{"content": "Apple iPhone 12 (A2404) 128GB 黑色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "Apple iPhone 12", "start": 0, "end": 15}], "prompt": "商品名称"}

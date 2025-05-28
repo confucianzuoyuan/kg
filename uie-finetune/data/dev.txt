@@ -1,0 +1,11 @@
+{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+512GB 冷杉绿 5G手机", "result_list": [{"text": "小米12S Ultra", "start": 0, "end": 11}], "prompt": "商品名称"}
+{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+512GB 冷杉绿 5G手机", "result_list": [{"text": "冷杉绿", "start": 61, "end": 64}], "prompt": "颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M01醉蔷薇", "result_list": [{"text": "CAREMiLLE", "start": 0, "end": 9}, {"text": "珂曼奶油小方口红", "start": 9, "end": 17}], "prompt": "商品名称"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M01醉蔷薇", "result_list": [{"text": "醉蔷薇", "start": 34, "end": 37}], "prompt": "颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M03赤茶", "result_list": [{"text": "CAREMiLLE", "start": 0, "end": 9}, {"text": "珂曼奶油小方口红", "start": 9, "end": 17}], "prompt": "商品名称"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M03赤茶", "result_list": [{"text": "赤茶", "start": 34, "end": 36}], "prompt": "颜色"}
+{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+512GB 冷杉绿 5G手机", "result_list": [{"text": "冷杉绿", "start": 61, "end": 64}], "prompt": "小米12S Ultra的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M01醉蔷薇", "result_list": [{"text": "醉蔷薇", "start": 34, "end": 37}], "prompt": "CAREMiLLE的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M01醉蔷薇", "result_list": [{"text": "醉蔷薇", "start": 34, "end": 37}], "prompt": "珂曼奶油小方口红的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M03赤茶", "result_list": [{"text": "赤茶", "start": 34, "end": 36}], "prompt": "CAREMiLLE的颜色"}
+{"content": "CAREMiLLE珂曼奶油小方口红 雾面滋润保湿持久丝缎唇膏 M03赤茶", "result_list": [{"text": "赤茶", "start": 34, "end": 36}], "prompt": "珂曼奶油小方口红的颜色"}
