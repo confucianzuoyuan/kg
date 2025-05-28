@@ -149,7 +149,6 @@ def convert_ext_examples(raw_examples,
     texts = []
     entity_examples = []
     relation_examples = []
-    entity_cls_examples = []
     entity_prompts = []
     relation_prompts = []
     entity_label_set = []
@@ -395,4 +394,4 @@ def convert_ext_examples(raw_examples,
                 r for relation_example in relation_examples
                 for r in relation_example
             ]
-    return all_entity_examples, all_relation_examples, entity_cls_examples
+    return all_entity_examples, all_relation_examples

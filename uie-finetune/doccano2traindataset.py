@@ -2,7 +2,6 @@ import os
 import time
 import argparse
 import json
-from decimal import Decimal
 import numpy as np
 
 from utils import set_seed, convert_ext_examples
@@ -27,9 +26,9 @@ def do_convert():
                              negative_ratio,
                              shuffle=False,
                              is_train=True):
-        entities, relations, aspects = convert_ext_examples(
+        entities, relations = convert_ext_examples(
             examples, negative_ratio, is_train)
-        examples = entities + relations + aspects
+        examples = entities + relations
         if shuffle:
             indexes = np.random.permutation(len(examples))
             examples = [examples[i] for i in indexes]
