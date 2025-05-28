@@ -259,6 +259,12 @@ ID: 10101 -> Token: ##gb
 
 ![](./model-2.png)
 
+## 将doccano标注数据转换成训练数据
+
+```sh
+$ python doccano2traindataset.py --doccano_file ./doccano_ext.json --task_type "ext" --save_dir ./data
+```
+
 ## 微调代码
 
 ```sh
