@@ -163,56 +163,26 @@ def convert_ext_examples(raw_examples,
         for line in raw_examples:
             items = json.loads(line)
             entity_id = 0
-            if "data" in items.keys():
-                relation_mode = False
-                if isinstance(items["label"],
-                              dict) and "entities" in items["label"].keys():
-                    relation_mode = True
-                text = items["data"]
+            # Export file in JSONL format which doccano >= 1.7.0
+            # e.g. {"text": "", "label": [ [0, 2, "ORG"], ... ]}
+            if "label" in items.keys():
+                text = items["text"]
                 entities = []
+                for item in items["label"]:
+                    entity = {
+                        "id": entity_id,
+                        "start_offset": item[0],
+                        "end_offset": item[1],
+                        "label": item[2]
+                    }
+                    entities.append(entity)
+                    entity_id += 1
                 relations = []
-                if not relation_mode:
-                    # Export file in JSONL format which doccano < 1.7.0
-                    # e.g. {"data": "", "label": [ [0, 2, "ORG"], ... ]}
-                    for item in items["label"]:
-                        entity = {
-                            "id": entity_id,
-                            "start_offset": item[0],
-                            "end_offset": item[1],
-                            "label": item[2]
-                        }
-                        entities.append(entity)
-                        entity_id += 1
-                else:
-                    # Export file in JSONL format for relation labeling task which doccano < 1.7.0
-                    # e.g. {"data": "", "label": {"relations": [ {"id": 0, "start_offset": 0, "end_offset": 6, "label": "ORG"}, ... ], "entities": [ {"id": 0, "from_id": 0, "to_id": 1, "type": "foundedAt"}, ... ]}}
-                    entities.extend(
-                        [entity for entity in items["label"]["entities"]])
-                    if "relations" in items["label"].keys():
-                        relations.extend([
-                            relation for relation in items["label"]["relations"]
-                        ])
             else:
-                # Export file in JSONL format which doccano >= 1.7.0
-                # e.g. {"text": "", "label": [ [0, 2, "ORG"], ... ]}
-                if "label" in items.keys():
-                    text = items["text"]
-                    entities = []
-                    for item in items["label"]:
-                        entity = {
-                            "id": entity_id,
-                            "start_offset": item[0],
-                            "end_offset": item[1],
-                            "label": item[2]
-                        }
-                        entities.append(entity)
-                        entity_id += 1
-                    relations = []
-                else:
-                    # Export file in JSONL (relation) format
-                    # e.g. {"text": "", "relations": [ {"id": 0, "start_offset": 0, "end_offset": 6, "label": "ORG"}, ... ], "entities": [ {"id": 0, "from_id": 0, "to_id": 1, "type": "foundedAt"}, ... ]}
-                    text, relations, entities = items["text"], items[
-                        "relations"], items["entities"]
+                # Export file in JSONL (relation) format
+                # e.g. {"text": "", "relations": [ {"id": 0, "start_offset": 0, "end_offset": 6, "label": "ORG"}, ... ], "entities": [ {"id": 0, "from_id": 0, "to_id": 1, "type": "foundedAt"}, ... ]}
+                text, relations, entities = items["text"], items[
+                    "relations"], items["entities"]
             texts.append(text)
 
             entity_example = []
