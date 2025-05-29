@@ -1,7 +1,7 @@
 from neo4j import GraphDatabase
 
 NEO4J_URI = "neo4j://localhost"
-NEO4J_AUTH = ("neo4j", "BaiYuan329064BY")
+NEO4J_AUTH = ("neo4j", "password")
 
 
 def query_tx(tx, q):

@@ -3,7 +3,7 @@ from mysql.connector import Error
 from neo4j import GraphDatabase
 
 NEO4J_URI = "neo4j://localhost"
-NEO4J_AUTH = ("neo4j", "BaiYuan329064BY")
+NEO4J_AUTH = ("neo4j", "password")
 
 
 def create_connection(host_name, user_name, user_password, db_name):
