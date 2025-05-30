@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>实体抽取页面</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2em;
+    }
+    input, button {
+      padding: 0.5em;
+      font-size: 1em;
+    }
+    #result {
+      margin-top: 1em;
+      padding: 1em;
+      border: 1px solid #ccc;
+      background: #f9f9f9;
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+<body>
+  <h1>实体抽取测试页面</h1>
+  <input type="text" id="inputText" placeholder="输入字符串" size="40" />
+  <button id="sendBtn">发送</button>
+
+  <div id="result"></div>
+
+  <script>
+    const inputText = document.getElementById('inputText');
+    const sendBtn = document.getElementById('sendBtn');
+    const resultDiv = document.getElementById('result');
+
+    sendBtn.addEventListener('click', () => {
+      const text = inputText.value.trim();
+      if (!text) {
+        alert('请输入字符串');
+        return;
+      }
+
+      fetch('/api/echo', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ text })
+      })
+      .then(response => response.json())
+      .then(data => {
+        resultDiv.textContent = JSON.stringify(data, null, 2);
+      })
+      .catch(err => {
+        resultDiv.textContent = '请求出错: ' + err;
+      });
+    });
+  </script>
+</body>
+</html>
