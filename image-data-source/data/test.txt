@@ -1,14 +1,3 @@
-{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Z03女王红 性感冷艳 璀璨金钻哑光唇膏", "result_list": [{"text": "索芙特i-Softto", "start": 0, "end": 11}], "prompt": "商品名称"}
-{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Z03女王红 性感冷艳 璀璨金钻哑光唇膏", "result_list": [{"text": "女王红", "start": 36, "end": 39}], "prompt": "颜色"}
-{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+512GB 冷杉绿 5G手机", "result_list": [{"text": "小米12S Ultra", "start": 0, "end": 11}], "prompt": "商品名称"}
-{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+512GB 冷杉绿 5G手机", "result_list": [{"text": "冷杉绿", "start": 61, "end": 64}], "prompt": "颜色"}
-{"content": "Apple iPhone 12 (A2404) 64GB 黑色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "Apple iPhone 12", "start": 0, "end": 15}], "prompt": "商品名称"}
-{"content": "Apple iPhone 12 (A2404) 64GB 黑色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "黑色", "start": 29, "end": 31}], "prompt": "颜色"}
-{"content": "金沙河面条 原味银丝挂面 龙须面 方便速食拉面 清汤面 900g", "result_list": [{"text": "金沙河面条", "start": 0, "end": 5}, {"text": "原味银丝挂面", "start": 6, "end": 12}], "prompt": "商品名称"}
-{"content": "金沙河面条 原味银丝挂面 龙须面 方便速食拉面 清汤面 900g", "result_list": [], "prompt": "颜色"}
-{"content": "索芙特i-Softto 口红不掉色唇膏保湿滋润 璀璨金钻哑光唇膏 Z03女王红 性感冷艳 璀璨金钻哑光唇膏", "result_list": [{"text": "女王红", "start": 36, "end": 39}], "prompt": "索芙特i-Softto的颜色"}
-{"content": "小米12S Ultra 骁龙8+旗舰处理器 徕卡光学镜头 2K超视感屏 120Hz高刷 67W快充 12GB+512GB 冷杉绿 5G手机", "result_list": [{"text": "冷杉绿", "start": 61, "end": 64}], "prompt": "小米12S Ultra的颜色"}
-{"content": "Apple iPhone 12 (A2404) 64GB 黑色 支持移动联通电信5G 双卡双待手机", "result_list": [{"text": "黑色", "start": 29, "end": 31}], "prompt": "Apple iPhone 12的颜色"}
 {"content": "感恩回馈  即送豪华大礼包无线鼠标键盘膜(关注店镝升级无抟 )鼠标垫058分接器精美手提包包邮菁阜尤4};赠送运费险运费险全店包邮发货", "result_list": [{"text": "送豪华大礼包", "start": 7, "end": 13}, {"text": "赠送运费险", "start": 53, "end": 58}, {"text": "无线鼠标", "start": 13, "end": 17}, {"text": "键盘膜", "start": 17, "end": 20}], "prompt": "商品属性"}
 {"content": "京东方 &10悦目护眼屏京东方 &10 '发光器件384012 超高频 ?天 调光181.379 超窄黑边", "result_list": [{"text": "超窄", "start": 49, "end": 51}, {"text": "黑边", "start": 51, "end": 53}], "prompt": "商品属性"}
 {"content": "抗摔抗水,安心加倍*广告创惠。本产品并非专业防水手机。金刚盾双抗玻璃?满级防尘12小时抗雨淋4565 整机即使风吹雨淋或外界灰尘侵入565都能从容应对抗跌耐摔认证中国质显认证中心防水认证抗摔能力提升至@6150%钢丝绒耐刮测试2500次湿手。油手触控4洗漱湿手。油手也能刷短视频。回消息", "result_list": [{"text": "抗摔", "start": 0, "end": 2}, {"text": "抗水", "start": 2, "end": 4}, {"text": "抗摔", "start": 93, "end": 95}, {"text": "抗跌", "start": 75, "end": 77}, {"text": "耐摔", "start": 77, "end": 79}], "prompt": "商品属性"}
